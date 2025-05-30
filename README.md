@@ -12,7 +12,7 @@
 
 ### 2. View Power BI Dashboard
 - Open `Bigmart-sales-prediction-Dashboard.pbix` in Power BI Desktop
-- Refresh data or apply your filters
+- Refresh data or apply your filters https://github.com/Rimpa1999/Bigmart-sales-prediction.git
 
 ---
 
